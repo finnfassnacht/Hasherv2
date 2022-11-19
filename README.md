@@ -1,4 +1,5 @@
 # Hasherv2 SHA256
+https://hasher.netlify.app/
 Hasherv2 is a demonstration about mining, which for example can be used to explain Bitcoin to people.
 
 ![screenshot](https://user-images.githubusercontent.com/24934998/202850757-8da83975-f4c7-49e3-ad8e-72f4e43b9b01.png)
