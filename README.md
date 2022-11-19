@@ -6,4 +6,5 @@ HasherV2 is a demonstration about mining, which for example can be used to expla
 You can define the start value, i.e. "000" and the creator tag (tag is included in the dataset).
 Your browser will then try to generate datasets with that specific hash,
 if found, it will display the hash and dataset.
+
 Check it out https://hasher.netlify.app/
