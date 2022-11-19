@@ -1,0 +1,10 @@
+[class*="col"] {
+    padding: 0.5rem;
+
+}
+body {
+    background-color: black;
+}
+.loader {
+    height: 50px; background-color:#eaff00; border-radius: 10px;
+}
